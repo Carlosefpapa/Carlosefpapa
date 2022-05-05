@@ -22,5 +22,9 @@
    <a href="https://www.linkedin.com/in/carlos-eduardo-f-p/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   </div>
   
+ ![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
-  ![snake gif](https://github.com/Carlosefpapa/Carlosefpapa/blob/output/github-contribution-grid-snake.svn)
+Pull a github user's contribution graph.
+Make it a snake Game, generate a snake path where the cells get eaten in an orderly fashion.
+
+Generate a [gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.gif) or [svg](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg) image.
